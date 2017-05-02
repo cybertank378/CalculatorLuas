@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculatorLuas</string>
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="luas">Luas : </string>
+    <string name="submit">Hitung</string>
+    <string name="record">Record</string>
+</resources>
